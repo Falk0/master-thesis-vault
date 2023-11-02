@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f29a97da78ce73d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9601edc0b74a8756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e784c1e26fb2cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image-to-image translation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420590ec7a8ba976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image registration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c534f8fef69a39c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f076e7390d5348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdcb9886f50fabd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd183fae3460187e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a5e447058dd859c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62e093faf9dbf254",
+    "type": "split",
+    "children": [
+      {
+        "id": "8321ff43aaf3ed05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8b57735a818c29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Image registration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a15af1f008dbc3ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Image registration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "728548b842b89bbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a33f252eb89fb8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Image registration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "420590ec7a8ba976",
+  "lastOpenFiles": [
+    "Similarity measures.md",
+    "README.md",
+    "Multimodal images.md",
+    "InfoNCE.md",
+    "Image-to-image translation.md",
+    "Image registration.md",
+    "Image alignment.md",
+    "Fluorescence imaging.md",
+    "Correlative imaging.md",
+    "Contrastive loss.md",
+    "COMIRs.md",
+    "Bright field imaging.md",
+    "Cyclic Group.md",
+    "Fuzzy sets.md"
+  ]
+}

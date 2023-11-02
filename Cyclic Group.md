@@ -1,0 +1,1 @@
+Cyclic group of order four ($\mathcal{C}_4$) means that the object (2D case) can be rotated 90 degrees around a central point and still look the same. Taking an everyday object as example would be a square. 
