@@ -4,3 +4,10 @@ While [[Image-to-image translation]] aims to predict cross-modality, meaning tha
 
 In the COMIR method, contrastive learning is applied to aligned pairs of images during training to create dense representations. To the learnt representations can then be processed with monomodal registration algorithms since the method doesn't require any additional information about the modalities at hand.   
 
+[[Multimodal images]]
+
+[[Cyclic Group]]
+
+[[Image registration]]
+
+[[Contrastive loss]]

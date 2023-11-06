@@ -1,0 +1,1 @@
+Special case of fuzzy set: [[Crisp set]] 

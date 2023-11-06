@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Image-to-image translation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420590ec7a8ba976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Image registration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "420590ec7a8ba976",
+  "active": "9e784c1e26fb2cf8",
   "lastOpenFiles": [
+    "Image registration.md",
+    "COMIRs.md",
+    "Image alignment.md",
+    "Crisp set.md",
+    "Fuzzy sets.md",
     "Similarity measures.md",
-    "README.md",
-    "Multimodal images.md",
+    "Similarity measure.md",
     "InfoNCE.md",
     "Image-to-image translation.md",
-    "Image registration.md",
-    "Image alignment.md",
     "Fluorescence imaging.md",
+    "Cyclic Group.md",
     "Correlative imaging.md",
     "Contrastive loss.md",
-    "COMIRs.md",
     "Bright field imaging.md",
-    "Cyclic Group.md",
-    "Fuzzy sets.md"
+    "Multimodal images.md",
+    "README.md"
   ]
 }
