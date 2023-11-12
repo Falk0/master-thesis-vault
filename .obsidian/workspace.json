@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Image registration.md",
+                "file": "Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4ea6afef963dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Registration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6275ebcef06e8ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monomodal registration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image registration.md",
+                "file": "Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image registration.md",
+                "file": "Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image registration.md"
+                "file": "Transformations.md"
               }
             }
           }
@@ -148,21 +172,26 @@
   },
   "active": "9e784c1e26fb2cf8",
   "lastOpenFiles": [
-    "Image registration.md",
-    "COMIRs.md",
-    "Image alignment.md",
-    "Crisp set.md",
     "Fuzzy sets.md",
+    "COMIRs.md",
+    "Image-to-image translation.md",
+    "Monomodal registration.md",
+    "Registration.md",
+    "Transformations.md",
+    "Interpolation.md",
     "Similarity measures.md",
+    "Untitled",
+    "README.md",
+    "Bright field imaging.md",
+    "Contrastive loss.md",
+    "Correlative imaging.md",
+    "Crisp set.md",
+    "Cyclic Group.md",
+    "Fluorescence imaging.md",
+    "Image alignment.md",
+    "Image registration.md",
     "Similarity measure.md",
     "InfoNCE.md",
-    "Image-to-image translation.md",
-    "Fluorescence imaging.md",
-    "Cyclic Group.md",
-    "Correlative imaging.md",
-    "Contrastive loss.md",
-    "Bright field imaging.md",
-    "Multimodal images.md",
-    "README.md"
+    "Multimodal images.md"
   ]
 }
