@@ -1,1 +1,1 @@
-[[Fuzzy sets]] [[Crisp set]] [[Transformations]]
+[[Fuzzy sets]] [[Crisp set]] 

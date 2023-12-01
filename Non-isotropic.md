@@ -1,0 +1,2 @@
+
+A dataset is considered non-isotropic when the spacing between the datapoints is non uniform in all directions. In images this often refers to that the pixels or voxels are of different size along different axis. This can affect image analysis techniques 
